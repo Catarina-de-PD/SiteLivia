@@ -1,0 +1,36 @@
+.header{
+    text-align: center;
+    align-items: center;
+    display: flex;
+    width: 100%;
+    margin-top: 0;
+    padding-bottom: 1vh;
+    border-bottom: 0.3vh solid #000;
+}
+.logo{
+    font-family: 'Impact', sans-serif;
+    font-size: 6vh;
+    font-weight: lighter;
+    padding-left: 3vh;
+}
+.links{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.email{
+    padding-right: 1.5vh;
+}
+a{
+    padding: 2vh;
+}
+
+
+.legenda{
+    font-family: 'Impact', sans-serif;
+    font-size: 3vh;
+    font-weight: lighter;
+}
+/*.imagem{
+    border-bottom: 0.5vh solid #a87b05;
+    border-right: 0.5vh solid #a87b05;
+}*/
