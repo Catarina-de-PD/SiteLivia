@@ -20,6 +20,11 @@
 .email{
     padding-right: 1.5vh;
 }
+.linkEmail{
+    color: #000;    
+    margin-left: 0%;
+    text-decoration: none;
+}
 a{
     padding: 2vh;
 }
@@ -44,6 +49,13 @@ a{
 }
 .imagemIndex{
     width: 110vh;
+}
+.textoIndex{
+    font-family: 'Impact', sans-serif;
+    font-size: 9vh;
+    font-weight: lighter;
+    padding-left: 3vh;
+    margin-top: 20%;
 }
 .noticia{
     color: #000;    
